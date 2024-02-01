@@ -1,0 +1,6 @@
+[
+    { "id": "sixpack", "nombre": "Sixpack Cerveza Costeña", "precio": 11000 },
+    { "id": "aguardiente", "nombre": "Aguardiente Blanco", "precio": 36000 },
+    { "id": "ron", "nombre": "Ron Viejo de Caldas", "precio": 80000 },
+    { "id": "whisky", "nombre": "Whisky Old Parr", "precio": 160000 }
+]
